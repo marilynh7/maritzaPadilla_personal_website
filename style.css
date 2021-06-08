@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+}
+
+#header{
+    color: rgb(240, 109, 109);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    margin: 20px;
+}
+
+.subheaders{
+    font-family: 'PT Sans', sans-serif;
+    color: rgb(110, 121, 126);
+}
+.portfolio{
+    display:flex;
+    flex-wrap: wrap;
+}
+.projects{
+    border: 2px solid; 
+    border-color: black; 
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+body{
+    background-color:rgb(182, 209, 219);
+}
+
+img{
+    border-radius:15px;
+    padding: 10px;
+
+    
+}
